@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="search_user">Search User</string>
+    <string name="search">search</string>
+    <string name="name">name</string>
+    <string name="username">Username</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="followers">Followers</string>
+    <string name="github_user">Github User</string>
+    <string name="following">Following</string>
+    <string name="list_favorite">List Favorite</string>
+    <string name="success">Success</string>
+    <string name="fail">Fail</string>
+    <string name="delete">Delete</string>
+    <string name="message">Lets find popular user in Github!</string>
+    <string name="title">Reminder</string>
+    <string name="set_alarm">Set Alarm at 09:00 AM</string>
+    <string name="set">Set</string>
+    <string name="setting">Setting</string>
+</resources>
